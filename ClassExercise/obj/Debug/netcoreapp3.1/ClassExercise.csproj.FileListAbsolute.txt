@@ -1,0 +1,13 @@
+C:\Users\Mark\OneDrive\Desktop\repos\classExercise\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\ClassExercise.exe
+C:\Users\Mark\OneDrive\Desktop\repos\classExercise\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\ClassExercise.deps.json
+C:\Users\Mark\OneDrive\Desktop\repos\classExercise\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\ClassExercise.runtimeconfig.json
+C:\Users\Mark\OneDrive\Desktop\repos\classExercise\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\ClassExercise.runtimeconfig.dev.json
+C:\Users\Mark\OneDrive\Desktop\repos\classExercise\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\ClassExercise.dll
+C:\Users\Mark\OneDrive\Desktop\repos\classExercise\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\ClassExercise.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\classExercise\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\ClassExercise.csprojAssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\repos\classExercise\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\ClassExercise.AssemblyInfoInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\classExercise\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\ClassExercise.AssemblyInfo.cs
+C:\Users\Mark\OneDrive\Desktop\repos\classExercise\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\ClassExercise.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\classExercise\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\ClassExercise.dll
+C:\Users\Mark\OneDrive\Desktop\repos\classExercise\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\ClassExercise.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\classExercise\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\ClassExercise.genruntimeconfig.cache
